@@ -2,7 +2,7 @@
 <h3 align="center">QA Engineer 🪆 </h3>
 
 
- I have successfully completed the nine-month Yandex.Practicum program and mastered the profession of QA Engineer.  At the moment, I am considering the role of Junior QA engineer.
+ I have successfully completed the nine-month Yandex.Practicum program and mastered the profession of QA Engineer.  At the moment, I am considering the role of QA engineer.
 
 Skills: 
 - Qase
