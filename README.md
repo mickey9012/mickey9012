@@ -4,7 +4,18 @@
 
  I have successfully completed the nine-month Yandex.Practicum program and mastered the profession of QA Engineer.  At the moment, I am considering the role of Junior QA engineer.
 
-Skills: Atlassian Confluence, Atlassian Jira, Miro, MS Excel, MS PowerPoint, MS Word, Google Docs, 1C, Qase, Youtrack, Test IT, Figma, Android Studio, Postman, Charles, DevTools, SQL (Base level), Python (beginner level), Git
+Skills: 
+- Qase
+- Youtrack
+- Test IT
+- Figma
+- Android Studio
+- Postman
+- Charles
+- DevTools
+- SQL (Base level)
+- Python (beginner level)
+- Git
 
  
 - 🌱 I’m currently learning QA AUTOMATION 
