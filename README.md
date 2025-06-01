@@ -1,6 +1,8 @@
 <h1 align="center">Hi, My name is Aleksandr 👋🏼 </h1>
 
-![mygif](https://i.gifer.com/1UEW.gif)
+<p align="center">
+  <img src="https://i.gifer.com/1UEW.gif" alt="animated" />
+</p>
 
 <h3 align="center">QA Engineer 🪆 </h3>
 
