@@ -1,7 +1,8 @@
 <h1 align="center">Hi, My name is Aleksandr 👋🏼 </h1>
-<h3 align="center">QA Engineer 🪆 </h3>
 
 ![mygif](https://i.gifer.com/1UEW.gif)
+
+<h3 align="center">QA Engineer 🪆 </h3>
 
 
  I have successfully completed the nine-month Yandex.Practicum program and mastered the profession of QA Engineer.  At the moment, I am considering the role of QA engineer.
